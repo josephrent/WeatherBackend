@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "d3-fetch": "^2.0.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.6",
+    "node-fetch-polyfill": "^2.0.6"
+  }
+}
